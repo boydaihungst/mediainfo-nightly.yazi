@@ -1,4 +1,11 @@
-# mediainfo-nighly-nightly.yazi
+# mediainfo-nighly-nightly.yazi (DEPRECATED)
+
+## DEPRECATED using mediainfo instead:
+
+> [!IMPORTANT]
+> I won't update this repo anymore, so switch back to the stable version.
+> From now on, I will make it compatible with both the stable and nightly versions.
+> Use this repo: https://github.com/boydaihungst/mediainfo.yazi
 
 <!--toc:start-->
 
